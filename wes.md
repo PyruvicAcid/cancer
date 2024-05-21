@@ -8,7 +8,7 @@
 
 **高TMB：**`>10 mut/Mb`
 
-**优化：**靶向基因Panel测序（__MSK-IMPACT__，__FoundationOne CDx__），提高测序深度，降低测序成本，检出罕见突变。
+**优化：** 靶向基因Panel测序（__MSK-IMPACT__，__FoundationOne CDx__），提高测序深度，降低测序成本，检出罕见突变。
 
 | 方法                    | WES                                      | FM NGS                                                       | MSKCC NGS                            |
 | ----------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------ |
@@ -42,11 +42,11 @@
 
 **定义：**
 
-- **Copy number alteration (CNA) 拷贝数改变：**所有大于 10 KB 的子臂获得或损失。
-- **Aneuploidy 非整倍性：**影响整个染色体臂（不包括近端着丝粒染色体的短臂）或整个染色体的所有 CNA 。
-- **Indels：**所有其他CNA。
-- **Somatic copy number alteration (SCNA) 体细胞拷贝数改变：**体细胞中合子后产生的 CNA 。
-- **Copy number variants (CNV) 拷贝数变异：**发生在生殖系中并因此可遗传的 CNA 。
+- **Copy number alteration (CNA) 拷贝数改变：** 所有大于 10 KB 的子臂获得或损失。
+- **Aneuploidy 非整倍性：** 影响整个染色体臂（不包括近端着丝粒染色体的短臂）或整个染色体的所有 CNA 。
+- **Indels：** 所有其他CNA。
+- **Somatic copy number alteration (SCNA) 体细胞拷贝数改变：** 体细胞中合子后产生的 CNA 。
+- **Copy number variants (CNV) 拷贝数变异：** 发生在生殖系中并因此可遗传的 CNA 。
 
 ### ASCAT
 
